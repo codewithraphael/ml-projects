@@ -1,14 +1,16 @@
 # ml-projects
-This repository contains my journey into data science and machine learning. It includes hands on projects covering data cleaning, exploratory analysis, model training, and evaluation using real datasets.
+This repository features my end to end data science and machine learning projects. Each project includes data preprocessing, exploratory data analysis, model development, evaluation, and insights derived from real world datasets. Built using Python, pandas, scikit learn, and visualization libraries.
 
 My focus areas include:
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Machine learning model building
-Data visualization and storytelling
+
+1. Data cleaning and preprocessing
+2. Exploratory data analysis (EDA)
+3. Machine learning model building
+4. Data visualization and storytelling
 
 
-🧠 Skills & Tools
+🧠 Skills & Tools:
+
 Programming & Libraries
 
 1. Python
@@ -18,13 +20,13 @@ Programming & Libraries
 5. Matplotlib
 6. Seaborn
 
-Other Tools
+Other Tools:
 
 1. SQL (PostgreSQL)
 2. Excel
 3. Git & GitHub
 
-📁 Projects
+📁 Projects:
 
 House Price Prediction
    
@@ -46,8 +48,9 @@ Sales Data Analysis
 
 
 
-📊 What You’ll Find in Each Project
-Each project in this repository includes:
+📊 What You’ll Find in Each Project:
+
+Each project in this repository includes;
 
 1. Problem statement
 2. Dataset description
@@ -56,10 +59,12 @@ Each project in this repository includes:
 5. Model building and evaluation
 6. Key insights and conclusions
 
-📈 Goals
+📈 Goals:
+
 I am continuously improving my skills by working on real world datasets and building projects that reflect practical business problems.
 
-📬 Contact
+📬 Contact:
+
 If you would like to collaborate or have opportunities, feel free to reach out:
 
 GitHub: github.com/codewithraphael
@@ -68,5 +73,6 @@ LinkedIn: linkedin.com/in/codewithraphael
 
 Email: raphaeldaniel223@gmail.com
 
-⭐ Final Note
+⭐ Final Note:
+
 This repository is part of my journey to becoming a professional data scientist. More projects and improvements will be added over time.
