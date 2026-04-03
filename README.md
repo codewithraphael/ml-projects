@@ -1,15 +1,6 @@
 # ml-projects
 This repository contains my journey into data science and machine learning. It includes hands on projects covering data cleaning, exploratory analysis, model training, and evaluation using real datasets.
 
-
-📊 Machine Learning & Data Science Portfolio
-
-Welcome to my data science and machine learning portfolio. This repository contains a collection of real world projects where I apply data analysis, visualization, and machine learning techniques to solve practical problems.
-
-🚀 About Me
-
-I am a data analyst and aspiring machine learning engineer with a strong interest in turning data into meaningful insights and building predictive models.
-
 My focus areas include:
 Data cleaning and preprocessing
 Exploratory data analysis (EDA)
@@ -19,46 +10,50 @@ Data visualization and storytelling
 
 🧠 Skills & Tools
 Programming & Libraries
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+
+1. Python
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Matplotlib
+6. Seaborn
 
 Other Tools
-SQL (PostgreSQL)
-Excel
-Git & GitHub
+
+1. SQL (PostgreSQL)
+2. Excel
+3. Git & GitHub
 
 📁 Projects
-1. House Price Prediction
-Built a regression model to predict housing prices
-Performed data cleaning and feature engineering
-Evaluated model performance using metrics
+House Price Prediction
+   
+1. Built a regression model to predict housing prices
+2. Performed data cleaning and feature engineering
+3. Evaluated model performance using metrics
 
-2. Customer Churn Prediction
-Analyzed customer behavior to predict churn
-Applied classification algorithms
-Identified key factors influencing customer retention
+Customer Churn Prediction
 
-3. Sales Data Analysis
-Explored sales trends and patterns
-Created visual dashboards
-Generated business insights
+1. Analyzed customer behavior to predict churn
+2. Applied classification algorithms
+3. Identified key factors influencing customer retention
+
+Sales Data Analysis
+
+1. Explored sales trends and patterns
+2. Created visual dashboards
+3. Generated business insights
 
 
 
 📊 What You’ll Find in Each Project
-
 Each project in this repository includes:
 
-Problem statement
-Dataset description
-Data cleaning process
-Exploratory data analysis
-Model building and evaluation
-Key insights and conclusions
+1. Problem statement
+2. Dataset description
+3. Data cleaning process
+4. Exploratory data analysis
+5. Model building and evaluation
+6. Key insights and conclusions
 
 📈 Goals
 I am continuously improving my skills by working on real world datasets and building projects that reflect practical business problems.
@@ -67,8 +62,10 @@ I am continuously improving my skills by working on real world datasets and buil
 If you would like to collaborate or have opportunities, feel free to reach out:
 
 GitHub: github.com/codewithraphael
-LinkedIn: linkedin.com/in/codewithraphael
-Email: raphaeldaniel223@gmail.com
-⭐ Final Note
 
+LinkedIn: linkedin.com/in/codewithraphael
+
+Email: raphaeldaniel223@gmail.com
+
+⭐ Final Note
 This repository is part of my journey to becoming a professional data scientist. More projects and improvements will be added over time.
