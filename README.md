@@ -25,6 +25,7 @@ Other Tools
 3. Git & GitHub
 
 📁 Projects
+
 House Price Prediction
    
 1. Built a regression model to predict housing prices
