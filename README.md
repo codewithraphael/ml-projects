@@ -9,7 +9,7 @@ My focus areas include:
 4. Data visualization and storytelling
 
 
-🧠 Skills & Tools:
+Skills & Tools:
 
 Programming & Libraries
 
@@ -26,31 +26,7 @@ Other Tools:
 2. Excel
 3. Git & GitHub
 
-📁 Projects:
-
-House Price Prediction
-   
-1. Built a regression model to predict housing prices
-2. Performed data cleaning and feature engineering
-3. Evaluated model performance using metrics
-
-Customer Churn Prediction
-
-1. Analyzed customer behavior to predict churn
-2. Applied classification algorithms
-3. Identified key factors influencing customer retention
-
-Sales Data Analysis
-
-1. Explored sales trends and patterns
-2. Created visual dashboards
-3. Generated business insights
-
-
-
-📊 What You’ll Find in Each Project:
-
-Each project in this repository includes;
+What You’ll Find in Each Project:
 
 1. Problem statement
 2. Dataset description
@@ -59,11 +35,11 @@ Each project in this repository includes;
 5. Model building and evaluation
 6. Key insights and conclusions
 
-📈 Goals:
+Goals:
 
 I am continuously improving my skills by working on real world datasets and building projects that reflect practical business problems.
 
-📬 Contact:
+Contact:
 
 If you would like to collaborate or have opportunities, feel free to reach out:
 
