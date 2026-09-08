@@ -1,4 +1,3 @@
-from hypothesis import target
 import pandas as pd
 
 from config import TARGET_COLUMN, TEST_SIZE
@@ -28,9 +27,12 @@ def split_time_series(series, test_size=TEST_SIZE):
 
     '''
     split timeseries chronologically into training and testing datasets
-    ''' 
+    '''
 
-    split_index = int(len(series) * 1 - test_size)
+    if not 0 < test_size < 1:
+        raise ValueError(f'test_size must be between 0 and 1, got {test_size}')
+
+    split_index = int(len(series) * (1 - test_size))
 
     train = series.iloc[:split_index]
     test = series.iloc[split_index:]
